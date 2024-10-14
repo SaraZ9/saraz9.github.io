@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Node.js on Sara Zhang</title>
-    <link>http://localhost:1313/hugo-website/tags/node.js/</link>
+    <link>http://localhost:1313/tags/node.js/</link>
     <description>Recent content in Node.js on Sara Zhang</description>
     <generator>Hugo -- 0.135.0</generator>
     <language>en</language>
     <lastBuildDate>Mon, 07 Oct 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/hugo-website/tags/node.js/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/node.js/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Insight UBC - Courses and Room Information Query Web Application</title>
-      <link>http://localhost:1313/hugo-website/projects/project5/</link>
+      <link>http://localhost:1313/projects/project5/</link>
       <pubDate>Wed, 30 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hugo-website/projects/project5/</guid>
+      <guid>http://localhost:1313/projects/project5/</guid>
       <description>A full stack web application to help users easily access and analyze information about UBC courses and room availability. Using jQuery and TypeScript, I built a responsive and user-friendly interface, allowing users to navigate the data with ease. On the back end, I implemented the application with Node.js to handle data processing and respond efficiently to user queries.</description>
     </item>
   </channel>

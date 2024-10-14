@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Logistic Regression on Sara Zhang</title>
-    <link>http://localhost:1313/hugo-website/tags/logistic-regression/</link>
+    <link>http://localhost:1313/tags/logistic-regression/</link>
     <description>Recent content in Logistic Regression on Sara Zhang</description>
     <generator>Hugo -- 0.135.0</generator>
     <language>en</language>
     <lastBuildDate>Mon, 07 Oct 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/hugo-website/tags/logistic-regression/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/logistic-regression/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Exploring Predictive Models in Education: An Examination of Secondary School Student Performance</title>
-      <link>http://localhost:1313/hugo-website/projects/project3/</link>
+      <link>http://localhost:1313/projects/project3/</link>
       <pubDate>Sat, 30 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hugo-website/projects/project3/</guid>
+      <guid>http://localhost:1313/projects/project3/</guid>
       <description>This project presents a deep learning method to enhance compressed images specifically for machine learning tasks, addressing the performance degradation caused by image distortions such as blurring and blocking. The approach combines an image restoration network and a classification network to optimize compressed image quality for machine consumption.</description>
     </item>
   </channel>

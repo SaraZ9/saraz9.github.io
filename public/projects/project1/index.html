@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en" dir="auto">
 
-<head><script src="/hugo-website/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=hugo-website/livereload" data-no-instant defer></script><meta charset="utf-8">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="robots" content="noindex, nofollow">
@@ -9,15 +9,15 @@
 <meta name="keywords" content="Machine Learning, Deep Learning, Neural Networks, Python, Computer Vision, YOLO, Google Colab">
 <meta name="description" content="This project aims to protect digital privacy by using a deep learning model, YOLOv8n, to detect sensitive information in WeChat screenshots. The model addresses privacy concerns by automatically identifying and allowing anonymization of personal details, enhancing security in digital media sharing.">
 <meta name="author" content="Sara Zhang">
-<link rel="canonical" href="http://localhost:1313/hugo-website/projects/project1/">
-<link crossorigin="anonymous" href="/hugo-website/assets/css/stylesheet.6556b24f602e9a2b8138c0189aebe477af3d3ac0e7daa4ebd4822a1d3e60779e.css" integrity="sha256-ZVayT2AumiuBOMAYmuvkd689OsDn2qTr1IIqHT5gd54=" rel="preload stylesheet" as="style">
-<link rel="icon" href="http://localhost:1313/hugo-website/favicon.ico">
-<link rel="icon" type="image/png" sizes="16x16" href="http://localhost:1313/hugo-website/favicon-16x16.png">
-<link rel="icon" type="image/png" sizes="32x32" href="http://localhost:1313/hugo-website/favicon-32x32.png">
-<link rel="apple-touch-icon" href="http://localhost:1313/hugo-website/apple-touch-icon.png">
+<link rel="canonical" href="http://localhost:1313/projects/project1/">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.6556b24f602e9a2b8138c0189aebe477af3d3ac0e7daa4ebd4822a1d3e60779e.css" integrity="sha256-ZVayT2AumiuBOMAYmuvkd689OsDn2qTr1IIqHT5gd54=" rel="preload stylesheet" as="style">
+<link rel="icon" href="http://localhost:1313/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="http://localhost:1313/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="http://localhost:1313/favicon-32x32.png">
+<link rel="apple-touch-icon" href="http://localhost:1313/apple-touch-icon.png">
 <meta name="theme-color" content="#2e2e33">
 <meta name="msapplication-TileColor" content="#2e2e33">
-<link rel="alternate" hreflang="en" href="http://localhost:1313/hugo-website/projects/project1/">
+<link rel="alternate" hreflang="en" href="http://localhost:1313/projects/project1/">
 <noscript>
     <style>
         #theme-toggle,
@@ -29,13 +29,13 @@
 </noscript><meta property="og:title" content="Enhancing Digital Privacy with YOLOv8n" />
 <meta property="og:description" content="This project aims to protect digital privacy by using a deep learning model, YOLOv8n, to detect sensitive information in WeChat screenshots. The model addresses privacy concerns by automatically identifying and allowing anonymization of personal details, enhancing security in digital media sharing." />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="http://localhost:1313/hugo-website/projects/project1/" />
-<meta property="og:image" content="http://localhost:1313/hugo-website/project1.png" /><meta property="article:section" content="projects" />
+<meta property="og:url" content="http://localhost:1313/projects/project1/" />
+<meta property="og:image" content="http://localhost:1313/project1.png" /><meta property="article:section" content="projects" />
 <meta property="article:published_time" content="2024-04-30T00:00:00+00:00" />
 <meta property="article:modified_time" content="2024-10-07T00:00:00+00:00" />
 
 <meta name="twitter:card" content="summary_large_image" />
-<meta name="twitter:image" content="http://localhost:1313/hugo-website/project1.png" />
+<meta name="twitter:image" content="http://localhost:1313/project1.png" />
 <meta name="twitter:title" content="Enhancing Digital Privacy with YOLOv8n"/>
 <meta name="twitter:description" content="This project aims to protect digital privacy by using a deep learning model, YOLOv8n, to detect sensitive information in WeChat screenshots. The model addresses privacy concerns by automatically identifying and allowing anonymization of personal details, enhancing security in digital media sharing."/>
 
@@ -49,13 +49,13 @@
       "@type": "ListItem",
       "position":  1 ,
       "name": "Projects",
-      "item": "http://localhost:1313/hugo-website/projects/"
+      "item": "http://localhost:1313/projects/"
     }, 
     {
       "@type": "ListItem",
       "position":  2 ,
       "name": "Enhancing Digital Privacy with YOLOv8n",
-      "item": "http://localhost:1313/hugo-website/projects/project1/"
+      "item": "http://localhost:1313/projects/project1/"
     }
   ]
 }
@@ -73,7 +73,7 @@
   "articleBody": " Project Overview This project aims to protect digital privacy by using a deep learning model, YOLOv8n, to detect sensitive information in WeChat screenshots. The model addresses privacy concerns by automatically identifying and allowing anonymization of personal details, enhancing security in digital media sharing.\nIntroduction With the rise of digital communication, inadvertent sharing of personal information, especially through screenshots, poses privacy risks. This project focuses on adapting YOLOv8n—a real-time object detection framework—to recognize sensitive elements like usernames and profile pictures in WeChat screenshots.\nMethodology Model Selection We trained the YOLOv8n model, optimized for real-time processing, over 80 epochs on 130 manually annotated WeChat screenshots. The model effectively detects sensitive data using techniques like bounding boxes for personal information such as usernames and photos.\nTraining Process Loss Functions: We used a combination of Box Loss, Classification Loss, and Distribution Focal Loss to optimize the model’s performance. Evaluation Metrics: Performance was measured using precision, recall, and the mean average precision (mAP) to ensure high detection accuracy. The final precision achieved was 96.8%. Challenges Manual data annotation was time-consuming and impacted the model’s ability to generalize to unseen data. Detecting sensitive information in complex WeChat layouts, especially densely packed text, posed additional challenges. Results After training, the model was evaluated on 12 test images, achieving a high precision of 96.8% and mAP50 of 95.2%. While performance was strong in clear scenarios, more ambiguous cases (e.g., overlapping text) require further optimization.\nFuture Directions Future improvements include:\nExpanding the dataset to cover more diverse scenarios. Integrating the model into a real-time system for automatic privacy protection in image sharing. Conclusion This project demonstrates the potential of YOLOv8n in enhancing privacy during digital communications by effectively detecting personal information in WeChat screenshots. While the initial results are promising, further work is needed to improve the model’s accuracy in complex environments and integrate it into a practical tool for everyday use.\nRelated material Full report Presentation slides ",
   "wordCount" : "319",
   "inLanguage": "en",
-  "image":"http://localhost:1313/hugo-website/project1.png","datePublished": "2024-04-30T00:00:00Z",
+  "image":"http://localhost:1313/project1.png","datePublished": "2024-04-30T00:00:00Z",
   "dateModified": "2024-10-07T00:00:00Z",
   "author":[{
     "@type": "Person",
@@ -81,14 +81,14 @@
   }],
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "http://localhost:1313/hugo-website/projects/project1/"
+    "@id": "http://localhost:1313/projects/project1/"
   },
   "publisher": {
     "@type": "Organization",
     "name": "Sara Zhang",
     "logo": {
       "@type": "ImageObject",
-      "url": "http://localhost:1313/hugo-website/favicon.ico"
+      "url": "http://localhost:1313/favicon.ico"
     }
   }
 }
@@ -129,8 +129,8 @@
 <header class="header">
     <nav class="nav">
         <div class="logo">
-            <a href="http://localhost:1313/hugo-website/" accesskey="h" title="Sara Z.">
-                <img src="http://localhost:1313/hugo-website/favicon.ico" alt="" aria-label="logo"
+            <a href="http://localhost:1313/" accesskey="h" title="Sara Z.">
+                <img src="http://localhost:1313/favicon.ico" alt="" aria-label="logo"
                     height="18"
                     width="18">Sara Z.</a>
             <div class="logo-switches">
@@ -138,27 +138,27 @@
         </div>
         <ul id="menu">
             <li>
-                <a href="http://localhost:1313/hugo-website/projects/" title="Projects">
+                <a href="http://localhost:1313/projects/" title="Projects">
                     <span>Projects</span>
                 </a>
             </li>
             <li>
-                <a href="http://localhost:1313/hugo-website/experience/" title="Experience">
+                <a href="http://localhost:1313/experience/" title="Experience">
                     <span>Experience</span>
                 </a>
             </li>
             <li>
-                <a href="http://localhost:1313/hugo-website/education/" title="Education">
+                <a href="http://localhost:1313/education/" title="Education">
                     <span>Education</span>
                 </a>
             </li>
             <li>
-                <a href="http://localhost:1313/hugo-website/tags/" title="Keywords">
+                <a href="http://localhost:1313/tags/" title="Keywords">
                     <span>Keywords</span>
                 </a>
             </li>
             <li>
-                <a href="http://localhost:1313/hugo-website/life/" title="About Me">
+                <a href="http://localhost:1313/life/" title="About Me">
                     <span>About Me</span>
                 </a>
             </li>
@@ -222,20 +222,20 @@
 
   <footer class="post-footer">
     <ul class="post-tags">
-      <li><a href="http://localhost:1313/hugo-website/tags/machine-learning/">Machine Learning</a></li>
-      <li><a href="http://localhost:1313/hugo-website/tags/deep-learning/">Deep Learning</a></li>
-      <li><a href="http://localhost:1313/hugo-website/tags/neural-networks/">Neural Networks</a></li>
-      <li><a href="http://localhost:1313/hugo-website/tags/python/">Python</a></li>
-      <li><a href="http://localhost:1313/hugo-website/tags/computer-vision/">Computer Vision</a></li>
-      <li><a href="http://localhost:1313/hugo-website/tags/yolo/">YOLO</a></li>
-      <li><a href="http://localhost:1313/hugo-website/tags/google-colab/">Google Colab</a></li>
+      <li><a href="http://localhost:1313/tags/machine-learning/">Machine Learning</a></li>
+      <li><a href="http://localhost:1313/tags/deep-learning/">Deep Learning</a></li>
+      <li><a href="http://localhost:1313/tags/neural-networks/">Neural Networks</a></li>
+      <li><a href="http://localhost:1313/tags/python/">Python</a></li>
+      <li><a href="http://localhost:1313/tags/computer-vision/">Computer Vision</a></li>
+      <li><a href="http://localhost:1313/tags/yolo/">YOLO</a></li>
+      <li><a href="http://localhost:1313/tags/google-colab/">Google Colab</a></li>
     </ul>
   </footer>
 </article>
     </main>
     
 <footer class="footer">
-    <span>&copy; 2024 <a href="http://localhost:1313/hugo-website/">Sara Zhang</a></span> ·     
+    <span>&copy; 2024 <a href="http://localhost:1313/">Sara Zhang</a></span> ·     
     <span>
     Powered by 
         <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> &

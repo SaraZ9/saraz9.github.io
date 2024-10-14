@@ -2,181 +2,181 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/hugo-website/tags/data-analysis/</loc>
+    <loc>http://localhost:1313/tags/data-analysis/</loc>
     <lastmod>2024-10-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-website/tags/feature-evaluation/</loc>
+    <loc>http://localhost:1313/tags/feature-evaluation/</loc>
     <lastmod>2024-10-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-website/tags/jupyter-notebook/</loc>
+    <loc>http://localhost:1313/tags/jupyter-notebook/</loc>
     <lastmod>2024-10-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-website/tags/machine-learning/</loc>
+    <loc>http://localhost:1313/tags/machine-learning/</loc>
     <lastmod>2024-10-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-website/projects/project6/</loc>
+    <loc>http://localhost:1313/projects/project6/</loc>
     <lastmod>2024-10-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-website/tags/nlp/</loc>
+    <loc>http://localhost:1313/tags/nlp/</loc>
     <lastmod>2024-10-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-website/projects/</loc>
+    <loc>http://localhost:1313/projects/</loc>
     <lastmod>2024-10-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-website/tags/python/</loc>
+    <loc>http://localhost:1313/tags/python/</loc>
     <lastmod>2024-10-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-website/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2024-10-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-website/tags/statistical-analysis/</loc>
+    <loc>http://localhost:1313/tags/statistical-analysis/</loc>
     <lastmod>2024-10-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-website/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2024-10-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-website/tags/topic-extraction/</loc>
+    <loc>http://localhost:1313/tags/topic-extraction/</loc>
     <lastmod>2024-10-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-website/projects/project2/</loc>
+    <loc>http://localhost:1313/projects/project2/</loc>
     <lastmod>2024-10-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-website/tags/classification/</loc>
+    <loc>http://localhost:1313/tags/classification/</loc>
     <lastmod>2024-10-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-website/tags/compression/</loc>
+    <loc>http://localhost:1313/tags/compression/</loc>
     <lastmod>2024-10-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-website/tags/computer-vision/</loc>
+    <loc>http://localhost:1313/tags/computer-vision/</loc>
     <lastmod>2024-10-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-website/tags/deep-learning/</loc>
+    <loc>http://localhost:1313/tags/deep-learning/</loc>
     <lastmod>2024-10-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-website/tags/digital-media/</loc>
+    <loc>http://localhost:1313/tags/digital-media/</loc>
     <lastmod>2024-10-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-website/tags/efficientnet/</loc>
+    <loc>http://localhost:1313/tags/efficientnet/</loc>
     <lastmod>2024-10-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-website/projects/project1/</loc>
+    <loc>http://localhost:1313/projects/project1/</loc>
     <lastmod>2024-10-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-website/tags/google-colab/</loc>
+    <loc>http://localhost:1313/tags/google-colab/</loc>
     <lastmod>2024-10-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-website/tags/image-enhancement/</loc>
+    <loc>http://localhost:1313/tags/image-enhancement/</loc>
     <lastmod>2024-10-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-website/tags/imagenet-1k/</loc>
+    <loc>http://localhost:1313/tags/imagenet-1k/</loc>
     <lastmod>2024-10-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-website/tags/neural-networks/</loc>
+    <loc>http://localhost:1313/tags/neural-networks/</loc>
     <lastmod>2024-10-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-website/tags/swinir/</loc>
+    <loc>http://localhost:1313/tags/swinir/</loc>
     <lastmod>2024-10-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-website/tags/yolo/</loc>
+    <loc>http://localhost:1313/tags/yolo/</loc>
     <lastmod>2024-10-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-website/projects/project7/</loc>
+    <loc>http://localhost:1313/projects/project7/</loc>
     <lastmod>2024-10-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-website/tags/full-stack/</loc>
+    <loc>http://localhost:1313/tags/full-stack/</loc>
     <lastmod>2024-10-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-website/tags/git/</loc>
+    <loc>http://localhost:1313/tags/git/</loc>
     <lastmod>2024-10-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-website/tags/javascript/</loc>
+    <loc>http://localhost:1313/tags/javascript/</loc>
     <lastmod>2024-10-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-website/tags/json/</loc>
+    <loc>http://localhost:1313/tags/json/</loc>
     <lastmod>2024-10-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-website/tags/mongodb/</loc>
+    <loc>http://localhost:1313/tags/mongodb/</loc>
     <lastmod>2024-10-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-website/tags/react/</loc>
+    <loc>http://localhost:1313/tags/react/</loc>
     <lastmod>2024-10-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-website/tags/spring-boot/</loc>
+    <loc>http://localhost:1313/tags/spring-boot/</loc>
     <lastmod>2024-10-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-website/tags/tmdb-api/</loc>
+    <loc>http://localhost:1313/tags/tmdb-api/</loc>
     <lastmod>2024-10-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-website/tags/web-development/</loc>
+    <loc>http://localhost:1313/tags/web-development/</loc>
     <lastmod>2024-10-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-website/projects/project4/</loc>
+    <loc>http://localhost:1313/projects/project4/</loc>
     <lastmod>2024-10-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-website/tags/artificial-intelligence/</loc>
+    <loc>http://localhost:1313/tags/artificial-intelligence/</loc>
     <lastmod>2024-10-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-website/tags/autonomous-agents/</loc>
+    <loc>http://localhost:1313/tags/autonomous-agents/</loc>
     <lastmod>2024-10-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-website/tags/education/</loc>
+    <loc>http://localhost:1313/tags/education/</loc>
     <lastmod>2024-10-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-website/projects/project3/</loc>
+    <loc>http://localhost:1313/projects/project3/</loc>
     <lastmod>2024-10-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-website/tags/feature-engineering/</loc>
+    <loc>http://localhost:1313/tags/feature-engineering/</loc>
     <lastmod>2024-10-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-website/tags/java/</loc>
+    <loc>http://localhost:1313/tags/java/</loc>
     <lastmod>2024-10-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-website/tags/knn/</loc>
+    <loc>http://localhost:1313/tags/knn/</loc>
     <lastmod>2024-10-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-website/tags/logistic-regression/</loc>
+    <loc>http://localhost:1313/tags/logistic-regression/</loc>
     <lastmod>2024-10-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-website/tags/predictive-modeling/</loc>
+    <loc>http://localhost:1313/tags/predictive-modeling/</loc>
     <lastmod>2024-10-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-website/tags/q-learning/</loc>
+    <loc>http://localhost:1313/tags/q-learning/</loc>
     <lastmod>2024-10-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-website/tags/reinforcement-learning/</loc>
+    <loc>http://localhost:1313/tags/reinforcement-learning/</loc>
     <lastmod>2024-10-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-website/tags/robocode/</loc>
+    <loc>http://localhost:1313/tags/robocode/</loc>
     <lastmod>2024-10-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-website/tags/sarsa/</loc>
+    <loc>http://localhost:1313/tags/sarsa/</loc>
     <lastmod>2024-10-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-website/tags/unsupervised-learning/</loc>
+    <loc>http://localhost:1313/tags/unsupervised-learning/</loc>
     <lastmod>2024-10-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-website/tags/data-processing/</loc>
+    <loc>http://localhost:1313/tags/data-processing/</loc>
     <lastmod>2024-10-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-website/projects/project5/</loc>
+    <loc>http://localhost:1313/projects/project5/</loc>
     <lastmod>2024-10-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-website/tags/jquery/</loc>
+    <loc>http://localhost:1313/tags/jquery/</loc>
     <lastmod>2024-10-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-website/tags/node.js/</loc>
+    <loc>http://localhost:1313/tags/node.js/</loc>
     <lastmod>2024-10-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-website/tags/typescript/</loc>
+    <loc>http://localhost:1313/tags/typescript/</loc>
     <lastmod>2024-10-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-website/tags/unit-testing/</loc>
+    <loc>http://localhost:1313/tags/unit-testing/</loc>
     <lastmod>2024-10-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-website/life/</loc>
+    <loc>http://localhost:1313/life/</loc>
   </url><url>
-    <loc>http://localhost:1313/hugo-website/education/</loc>
+    <loc>http://localhost:1313/education/</loc>
   </url><url>
-    <loc>http://localhost:1313/hugo-website/experience/</loc>
+    <loc>http://localhost:1313/experience/</loc>
   </url>
 </urlset>
