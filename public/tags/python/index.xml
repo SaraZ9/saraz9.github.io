@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Python on Sara Zhang</title>
+    <link>http://localhost:1313/hugo-website/tags/python/</link>
+    <description>Recent content in Python on Sara Zhang</description>
+    <generator>Hugo -- 0.135.0</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 07 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/hugo-website/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Minivillage Survey Analysis Project</title>
+      <link>http://localhost:1313/hugo-website/projects/project6/</link>
+      <pubDate>Fri, 30 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hugo-website/projects/project6/</guid>
+      <description>As part of my work with Minivillage, a social purpose tech startup, I conducted a comprehensive analysis of their beginning-of-pilot survey.</description>
+    </item>
+    <item>
+      <title>Enhancing Digital Privacy with YOLOv8n</title>
+      <link>http://localhost:1313/hugo-website/projects/project1/</link>
+      <pubDate>Tue, 30 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hugo-website/projects/project1/</guid>
+      <description>This project aims to protect digital privacy by using a deep learning model, YOLOv8n, to detect sensitive information in WeChat screenshots. The model addresses privacy concerns by automatically identifying and allowing anonymization of personal details, enhancing security in digital media sharing.</description>
+    </item>
+    <item>
+      <title>Exploring Predictive Models in Education: An Examination of Secondary School Student Performance</title>
+      <link>http://localhost:1313/hugo-website/projects/project3/</link>
+      <pubDate>Sat, 30 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hugo-website/projects/project3/</guid>
+      <description>This project presents a deep learning method to enhance compressed images specifically for machine learning tasks, addressing the performance degradation caused by image distortions such as blurring and blocking. The approach combines an image restoration network and a classification network to optimize compressed image quality for machine consumption.</description>
+    </item>
+  </channel>
+</rss>
