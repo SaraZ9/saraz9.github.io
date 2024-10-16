@@ -20,6 +20,7 @@ editPost:
 <div align="center">
     <img src="project4.png" alt="cover for the project" width="600"/>
 </div>
+
 ## Project Overview
 This project was a hands-on exploration of Artificial Intelligence, completed as part of **CPEN 502 - Architecture for Learning Systems**. The primary objective was to develop an intelligent tank, leveraging **Reinforcement Learning (RL)** and **Neural Networks (NNs)**, to autonomously battle against explicitly programmed tanks within a game environment. Through this project, I applied machine learning techniques to design an unsupervised tank that can adapt to its environment and optimize its performance over time.
 
