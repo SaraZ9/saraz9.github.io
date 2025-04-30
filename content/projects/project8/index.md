@@ -7,7 +7,7 @@ author: ["Sara Zhang"]
 description: "BlockCrafters is a Web3 decentralized crowdfunding platform that enables startups to raise capital securely and transparently by issuing project-specific tokens. Built with a Flutter frontend and a modular smart contract backend, the platform supports milestone-based fund release, token-holder voting, and future governance extensions."  
 summary: "A decentralized Web3 crowdfunding platform built with Solidity and Flutter, featuring on-chain governance, milestone-based fund release, and ERC20 token issuance per project."  
 cover:  
-    image: "blockcrafters_cover.png"  
+    image: "project8.png"  
     alt: "cover for the project"  
     relative: false  
 editPost:  

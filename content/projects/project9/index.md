@@ -7,7 +7,7 @@ author: ["Sara Zhang"]
 description: "An NLP research project investigating gender bias in COMET-ATOMIC20, a commonsense reasoning model. The study examines how male and female entities are treated differently by the model across various relations, and applies sentiment analysis, lexical comparison, and statistical evaluation to quantify bias."  
 summary: "A research project analyzing gender bias in the COMET-ATOMIC20 commonsense knowledge model using Python. Explores differences in generated inferences based on gendered inputs using sentiment analysis and lexical methods."  
 cover:  
-    image: "genderbias_cover.png"  
+    image: "project9.png"  
     alt: "cover for the project"  
     relative: false  
 editPost:  
