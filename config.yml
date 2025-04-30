@@ -53,7 +53,7 @@ params:
     profileMode:
           enabled: true
           title: Sara Zhang
-          subtitle: "I study and live at the beautiful UBC, Vancouver. I am passionate about web development, machine learning and mathematics. Additionally, I find great joy in tackling challenging puzzles, with a particular fondness for those exceeding 2000 pieces. I am a lifelong learner, with the willingness to meet the life as it is."
+          subtitle: "I graduated twice from UBC and still haven’t stopped learning. I’m passionate about software development, machine learning, data science, and mathematics. I find joy in solving complex puzzles, especially those with over 2,000 pieces. I recently discovered a love for digital drawing as a way to relax and express myself. I'm a lifelong learner, always curious and open to meeting life as it is."
           imageUrl: "picture.png"
           imageWidth: 160
           imageHeight: 160

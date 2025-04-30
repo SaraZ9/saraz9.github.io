@@ -6,9 +6,9 @@ description: "Education experience of Sara Zhang."
 # Education
 
 ### Master of Engineering – Computer Engineering, **University of British Columbia**
-*Expected Graduation:* 2025, *Average:* 90%  
+*Expected Graduation:* May 2025, *Average:* 90%  
 
-*Notable Coursework:* Machine Learning, Deep Learning in Digital Media, Learning Systems Architectures, Visual Computing
+*Notable Coursework:* Machine Learning, Deep Learning in Digital Media, Learning Systems Architectures, Visual Computing, Database, Natural Language Processing
 
 ---
 

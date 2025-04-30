@@ -4,16 +4,25 @@ description: "Experience of Sara Zhang."
 ---
 # Professional Experience
 
+## Software Developer
+
+**BC Primary Health Care Research Network (BC-PHCRN)**
+*May 2025 – Present*
+
+Contributing to the development of a web-based data visualization tool that supports primary care research by transforming electronic medical record (EMR) data into interactive, user-friendly insights.
+
+<details> <summary> 🔽 **Click to view: Key Contributions** </summary>
+- In progress
+</details> <img src="BC-PHCRN.png" alt="BC-PHCRN Logo" width="200"/>
+
 ## Data Analyst
-
-
 **Minivillage**  
 *May 2024 - Aug. 2024*
 
 Conducted the analysis of Minivillage’s beginning-of-pilot resident surveys to deliver actionable insights on community dynamics and feature preferences, directly informing strategic planning and user experience enhancement.
 
 <details>
-  <summary> Key Contributions </summary>
+  <summary> 🔽 **Click to view: Key Contributions** </summary>
 
 - Developed a structured reporting framework, organizing survey data into relevant sections for a clear, comprehensive overview of community state and engagement.
 - Employed a combination of statistical methods and machine learning techniques, including natural language processing (NLP), to extract deeper insights from open-ended responses and quantitative data.
@@ -22,7 +31,7 @@ Conducted the analysis of Minivillage’s beginning-of-pilot resident surveys to
 
 </details>
 
-<img src="mv.png" alt="Minivillage Logo" width="100"/>
+<img src="mv.png" alt="Minivillage Logo" width="200"/>
 
 ---
 
@@ -33,7 +42,7 @@ Conducted the analysis of Minivillage’s beginning-of-pilot resident surveys to
 Assisted with undergraduate computer science courses at UBC, supporting student learning through tutorials, grading, and collaborative teaching improvements with professors.
 
 <details>
-  <summary> Key Contributions </summary>
+  <summary> 🔽 **Click to view: Key Contributions** </summary>
 
   - Cooperated with professors and TAs to prepare materials for courses: **CPSC121 Models of Computation (2019)**, **CPSC322 Introduction to AI (2023)**, and **CPSC 422 Intelligent Systems (2024)**.
   - Facilitated weekly tutorials and office hours to expand students’ understanding of lecture concepts.
@@ -53,14 +62,14 @@ Assisted with undergraduate computer science courses at UBC, supporting student 
 Streamlined operations at JD by conducting data analysis across departments, reducing project delivery times, and contributing to B2B big data solution planning.
 
 <details>
-  <summary> Key Contributions </summary>
+  <summary> 🔽 **Click to view: Key Contributions** </summary>
 
   - Conducted in-depth data analysis across 5 departments, identifying areas for improvement and achieving a 20% reduction in average project delivery time.
   - Supported the planning of B2B big data solutions through research, reporting, and competition analysis.
   - Completed and edited meeting minutes for weekly departmental meetings attended by over 30 participants.
 
 </details>
-<img src="jd.png" alt="JD Logo" width="100"/>
+<img src="jd.png" alt="JD Logo" width="200"/>
 
 ---
 
@@ -71,7 +80,7 @@ Streamlined operations at JD by conducting data analysis across departments, red
 Quantified structural stigma levels for marginalized groups and presented findings at a research conference, supporting UBC's understanding of social protections.
 
 <details>
-  <summary> Key Contributions </summary>
+  <summary> 🔽 **Click to view: Key Contributions** </summary>
 
   - Analyzed historical data on social and legal protections for sexual and gender minorities in North America.
   - Presented findings at the Multidisciplinary Undergraduate Research Conference, contributing to UBC's research on structural stigma.
