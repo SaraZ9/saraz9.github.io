@@ -7,12 +7,19 @@ description: "Experience of Sara Zhang."
 ## Software Developer
 
 **BC Primary Health Care Research Network (BC-PHCRN)**
-*May 2025 – Present*
+*May 2025 – Sep 2025*
 
 Contributing to the development of a web-based data visualization tool that supports primary care research by transforming electronic medical record (EMR) data into interactive, user-friendly insights.
 
 <details> <summary> Click to view more </summary>
-- In progress
+- Designed and developed two production dashboards analyzing multi-year EMR data from 100,000+ patients,
+prepared for rollout to 100+ clinicians across BC to support chronic disease severity and frailty management.
+- Engineered the dashboards with a Python Flask backend, SQLite databases, Python/SQL data-prep scripts,
+Jinja2 templates, and Chart.js visualizations, leveraging reusable macros and modular code for maintainability.
+- Optimized performance and maintainability through precomputed aggregation tables, modular code design, and
+refactored data workflows, while adhering to strict data privacy requirements for sensitive health records.
+- Iterated through 2 expert stakeholder feedback sessions, refining features and UI components to ensure the
+dashboards were technically robust, user-validated, and optimized for practical adoption.
 </details> <img src="BC-PHCRN.png" alt="BC-PHCRN Logo" width="200"/>
 
 ---
